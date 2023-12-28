@@ -11,7 +11,7 @@
 🌱 I'm learning web programming</br>
 💞️ I want to collaborate in the IT world</br>
 📫 How to contact me Email inyomanpurbawa4@gmail.com</br>
-❤️ I liked someone with the name Riska from the beginning of high school :)</br>
+❤️ I liked someone with the name Ni Made Riska Pramudita from the beginning of high school :)</br>
 
 <!---
 nyoman-purbawa/nyoman-purbawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
