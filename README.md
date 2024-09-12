@@ -10,7 +10,6 @@
 👀 I'm interested in web programming</br>
 🌱 I'm learning web programming</br>
 💞️ I want to collaborate in the IT world</br>
-📫 How to contact me Email inyomanpurbawa4@gmail.com</br>
 
 
 <!---
