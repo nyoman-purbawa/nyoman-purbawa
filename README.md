@@ -1,13 +1,13 @@
-<h3 align="center">
+<h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Welcome to I Nyoman Purbawa profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h3>
+</h1>
 
 
-👀 I’m interested in New Tech, Networking, and Linux  
+👀 I’m interested in New Tech, Networking, Linux, and Framework Security  
 🌱 I’m currently learning everything  
 📫 Trying to improve myself every day  
-🥅 2025 Goals: Expert in Linux, Networking  
+🥅 2025 Goals: Expert in Linux, Networking, and Framework Security  
 💞️ Ni Made Riska Pramudita
 
 
