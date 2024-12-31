@@ -4,11 +4,27 @@ Welcome to I Nyoman Purbawa profile! <img src="https://media.giphy.com/media/12o
 </h3>
 
 
-- 👀 I’m interested in New Tech, Networking and Linux
-- 🌱 I’m currently learning everything 
-- 📫 Trying to imporve myself everyday
-- 🥅 2025 Goals: Exspert Linux, Networking
-- 💞️ Ni Made Riska Pramudita
+👀 I’m interested in New Tech, Networking, and Linux  
+🌱 I’m currently learning everything  
+📫 Trying to improve myself every day  
+🥅 2025 Goals: Expert in Linux, Networking  
+💞️ Ni Made Riska Pramudita
+
+
+## 🙋‍♂️ Connect with me
+
+
+<!-- Badges template -->
+<p align="">
+  <a href="https://www.linkedin.com/in/i-nyoman-purbawa-b506b22a0/">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:inyomanpurbawa4@gmail.com">
+    <img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
 
 
 ## 🛠️ My favorite tools
