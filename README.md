@@ -2,12 +2,10 @@
 
 
 <h1 align="center">Hi 👋, I'm I Nyoman Purbawa</h1>
-<h3 align="center">I am very interested in the field of cyber security</h3>
 
 
 
 👋 Hi, I'm Nyoman Purbawa </br>
-👀 I'm interested in Cyber Security</br>
 🌱 I'm learning Cyber Security</br>
 💞️ I want to collaborate in the IT world</br>
 💓 Ni Made Riska Pramudita
