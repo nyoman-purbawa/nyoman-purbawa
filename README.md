@@ -6,7 +6,6 @@
 
 
 👋 Hi, I'm Nyoman Purbawa </br>
-🌱 I'm learning Cyber Security</br>
 💞️ I want to collaborate in the IT world</br>
 💓 Ni Made Riska Pramudita
 
