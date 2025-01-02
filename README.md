@@ -4,10 +4,10 @@ Welcome to I Nyoman Purbawa profile! <img src="https://media.giphy.com/media/12o
 </h1>
 
 
-👀 I’m interested in New Tech, Networking, Linux, and Framework Security  
+👀 I’m interested in Machine Learning and Deep Learning
 🌱 I’m currently learning everything  
 📫 Trying to improve myself every day  
-🥅 2025 Goals: Expert in Linux, Networking, and Framework Security  
+🥅 2025 Goals: Expert in Evrythng  
 💞️ Ni Made Riska Pramudita
 
 
