@@ -4,7 +4,7 @@ Welcome to I Nyoman Purbawa profile! <img src="https://media.giphy.com/media/12o
 </h1>
 
 
-👀 I’m interested in Machine Learning and Deep Learning
+👀 I’m interested in Web Dev 
 🌱 I’m currently learning everything  
 📫 Trying to improve myself every day  
 🥅 2025 Goals: Expert in Evrythng  
