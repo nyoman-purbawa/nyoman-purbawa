@@ -4,11 +4,12 @@ Welcome to I Nyoman Purbawa profile! <img src="https://media.giphy.com/media/12o
 </h1>
 
 
-👀 I’m interested in Web Dev 
+👀 I’m interested in Web Development  
 🌱 I’m currently learning everything  
 📫 Trying to improve myself every day  
-🥅 2025 Goals: Expert in Evrythng  
-💞️ Ni Made Riska Pramudita
+🥅 2025 Goals: Become an expert in everything  
+💞️ Ni Made Riska Pramudita  
+
 
 
 ## 🙋‍♂️ Connect with me
