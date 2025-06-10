@@ -33,7 +33,6 @@ Welcome to I Nyoman Purbawa profile! <img src="https://media.giphy.com/media/12o
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
     <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></a>
     <a href="#"><img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"></a>
 </p>
@@ -49,7 +48,6 @@ Welcome to I Nyoman Purbawa profile! <img src="https://media.giphy.com/media/12o
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000"></a>
