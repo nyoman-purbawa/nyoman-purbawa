@@ -35,6 +35,7 @@ Welcome to I Nyoman Purbawa profile! <img src="https://media.giphy.com/media/12o
 <p>
     <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></a>
     <a href="#"><img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
 </p>
 
 
@@ -48,10 +49,9 @@ Welcome to I Nyoman Purbawa profile! <img src="https://media.giphy.com/media/12o
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000"></a>
+    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"></a>
 </p>
+
 
 
 ### 🗄️ Databases and cloud hosting
