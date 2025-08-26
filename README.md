@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to I Nyoman Purbawa profile!
@@ -33,7 +32,7 @@
 
 ### 👨‍💻 Programming languages
 <p>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
 </p>
@@ -46,7 +45,7 @@
 
 ### 🧰 Frameworks and libraries
 <p>
-  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
+  <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.net&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -58,7 +57,7 @@
 ### 💻 Software and tools
 <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white"></a>
 </p>
@@ -75,5 +74,3 @@
 </p>
 
 ---
-
-> ✨ Profile ini menampilkan dua fokus utama: **Web Development (Python, Django)** dan **Ethical Hacking / Pentesting**.
