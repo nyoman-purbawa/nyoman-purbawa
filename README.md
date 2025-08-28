@@ -5,12 +5,15 @@
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-
-    👀 I’m interested in Web Development<br>
+<div>
+   👀 I’m interested in Web Development<br>
     🌱 I’m currently learning everything<br>
     📫 Trying to improve myself every day<br>
     🥅 2025 Goals: Become an expert in everything<br>
     💞️ Ni Made Riska Pramudita<br>
+
+</div>
+ 
 
 ---
 
